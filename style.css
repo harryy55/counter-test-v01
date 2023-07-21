@@ -1,0 +1,14 @@
+.counter{
+    
+}
+svg g rect{
+    fill: green !important;
+}
+svg g text{
+font-size: 14px !important;
+    fill: green !important;
+    padding-bottom: 2px !important;
+}
+svg g{
+    border: 0 !important;
+}
